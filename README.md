@@ -1,0 +1,2 @@
+# trumptweets
+Dataset: https://data.world/socialmediadata/tweets-of-congress-november  Join all datasets from 2017-11-01 to 2017-11-03.   Find all references to Donald Trump.   Generate % of accounts tweeting about Donald Trump.  Order accounts by the frequency of tweets about Donald Trump.  Bonus question: 1) Find % of Donald Trump tweets which are positive in nature. (positive keywords - Good, very good, nice) 2) Find % of accounts with more than 50% positive tweets about Donald Trump.
